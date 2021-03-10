@@ -22,7 +22,7 @@ export default {
   components: {
    BaseContent,
    BaseSidebar,
-  
+   
   }
  
 }
@@ -33,7 +33,8 @@ export default {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-   color: black;
+  color: black;
+ 
 }
 .grid-container {
     display: grid;
